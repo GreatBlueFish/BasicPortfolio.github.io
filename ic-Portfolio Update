@@ -1,0 +1,31 @@
+[33mcommit 72105c407a45ae8d90452af44b1bd8650c4319b4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alex Janumov <janumov91@gmail.com>
+Date:   Sat Jul 27 20:29:42 2019 -0700
+
+    Completed Basic-Portfolio Update
+
+[33mcommit b8fcd2528ae1a35fb5a648560a69dfa8e15993ef[m
+Author: Alex Janumov <janumov91@gmail.com>
+Date:   Sat Jul 27 19:06:32 2019 -0700
+
+    My completed week 2 Basic-Portfolio homework assignment
+
+[33mcommit f634888b75d60f556d5e78246d34e7cc5dacf8af[m
+Author: Alex Janumov <janumov91@gmail.com>
+Date:   Sat Jul 27 12:11:16 2019 -0700
+
+    Revert "I added my portfolio files"
+    
+    This reverts commit 839eb0212cca492c1afc0ecab9e77548da3ad362.
+
+[33mcommit 839eb0212cca492c1afc0ecab9e77548da3ad362[m
+Author: Alex Janumov <janumov91@gmail.com>
+Date:   Wed Jul 24 16:23:06 2019 -0700
+
+    I added my portfolio files
+
+[33mcommit 9bac6a5737d0693b73bdbb0dc28e26da14858e10[m
+Author: GreatBlueFish <50725249+GreatBlueFish@users.noreply.github.com>
+Date:   Wed Jul 24 16:14:22 2019 -0700
+
+    Initial commit
